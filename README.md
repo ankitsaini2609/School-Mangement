@@ -14,4 +14,6 @@ Java Swing,JDBC(sql connectivity), and little bit coding is used for the develop
 How to use:-
 1- download jdk(java development kit) and set the enviroment variable.(https://www.youtube.com/watch?v=wpxBWcC4KyE&list=PLfVsf4Bjg79Dgw4n_nR3C8Ozqek7DaZFQ&index=4)
 given link will help you to download and set enviroment variable.
-
+2- ther i have attached my sql file so you can use it by restoring it. you can use (Recommended :- mysql server)
+3- password for mysql server is (blank);
+4- for .jar file username is ankit56732 . Password = Ankit@123
